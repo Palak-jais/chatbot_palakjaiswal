@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400&family=Roboto&display=swap");
+
+* {
+  font-family: "Nunito Sans", sans-serif;
+  letter-spacing: 0.025em;
+}
