@@ -79,6 +79,3 @@ Once you've verified that the embeddings and content have been successfully adde
 - Pinecone indexes of users on the Starter(free) plan are deleted after 7 days of inactivity. To prevent this, send an API request to Pinecone to reset the counter before 7 days.
 - Retry from scratch with a new Pinecone project, index, and cloned repo.
 
-## Credit
-
-Developed by [brainlox.ai](https://brianlox.ai)
